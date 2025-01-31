@@ -266,7 +266,7 @@ export const workExperiences = [
     duration: '2022 - Present',
     title:
       'Ethereum serves as my primary blockchain platform for decentralized application (dApp) development. I work with smart contracts and decentralized finance (DeFi) protocols on this platform.',
-    icon: '/assets/ethereum.svg',
+    icon: '/assets/ethereum.png',
     animation: 'victory',
     href: 'https://ethereum.org/en/developers/docs/',
   },
